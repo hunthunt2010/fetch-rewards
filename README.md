@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+For styling this uses Material UI [Material UI](https://material-ui.com/).
+
+To run, execute `yarn install && yarn start`
+
 ## Available Scripts
 
 In the project directory, you can run:
